@@ -1,4 +1,4 @@
-# C++ Object-Oriented Programming | Week 1 Problem Set
+# C++ Object-Oriented Programming | Week-01
 
 This repository contains a collection of C++ applications developed to demonstrate fundamental and advanced OOP concepts. Each task focuses on a specific pillar of programming, from data encapsulation to complex operator overloading.
 
@@ -58,4 +58,5 @@ Focuses on organized data storage for publication details including ISBN, Author
 ### Compilation
 To compile a specific module (e.g., the Polynomial task):
 ```bash
+
 g++ PolynomialMath.cpp -o PolyMath
